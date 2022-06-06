@@ -4,7 +4,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ![Miguel Angelo GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMiguelAngelo&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMiguelAngelo)](https://github.com/miguelangelo/github-readme-stats)
+
 
 
 
