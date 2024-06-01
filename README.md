@@ -8,7 +8,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DevMiguelAngelo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <div align="center">  
-<a href="https://www.instagram.com/miguel_angelo.sax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/miguel_angelo.sax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/miguel-angelo-830357219" target="_blank"><img src="https://img.shields.io/badge/-linkedln-blue?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://www.facebook.com/miguel.angelo.9277583" target="_blank"><img src="https://img.shields.io/badge/-facebook-black?style=for-the-badge&logo=facebook&logoColor=white"</a>
 </div> 
  
 ### Main skills:
